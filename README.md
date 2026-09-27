@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Alireza Heidari 👋
 
-<!--
-**rezaheidari1146/rezaheidari1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT and Networking learner building practical projects in networking and infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Networking
+* Cisco & Packet Tracer
+* Linux
+* Cloud Computing
+* Cybersecurity fundamentals
+* Python & Automation
+
+## 🚀 Projects
+
+### Small Business Network Lab
+
+A Cisco Packet Tracer project covering:
+
+* VLANs
+* Trunking
+* Inter-VLAN Routing
+* DHCP
+* DNS
+* HTTP
+* ACLs
+
+🔗 [View the project](../small-business-network-lab)
+
+## 📚 Learning Path
+
+I'm currently building my foundation in IT and networking and gradually expanding toward Linux, Cloud Computing, Cybersecurity, and AI-related infrastructure.
+
+## 🎯 Long-Term Goal
+
+To build strong practical skills in IT infrastructure and modern cloud and AI technologies through hands-on projects and continuous learning.
+
+---
+
+📫 **GitHub:** [@rezaheidari1146](https://github.com/rezaheidari1146)
